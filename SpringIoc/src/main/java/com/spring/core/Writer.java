@@ -17,6 +17,7 @@ public class Writer {
 	/*Writer(Pen pen){
 		this.pen = pen;
 	}*/
+	
 	public void write() {
 		pen.write();
 	}
